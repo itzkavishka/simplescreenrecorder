@@ -1,4 +1,5 @@
 Simple Screen Recorder Installation and Configuration
+
 This is a Bash script to install Simple Screen Recorder on Debian-based systems, along with the required audio packages. The script updates the package list, installs pulseaudio, alsa-utils, and Simple Screen Recorder using the apt package manager, and configures the X server to allow local root access.
 
 To use the script, simply copy the code into a Bash file and run it with root privileges. Once the installation is complete, you should be able to start Simple Screen Recorder and begin recording your screen and audio.
